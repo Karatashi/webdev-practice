@@ -1,0 +1,23 @@
+body {
+  background-color: #212121;
+  color: #129fa5;
+}
+
+a {
+  color: #14ffec;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #15b6bc;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #12E5D4;
+}
+
+.selfPic {
+  border-radius: 50%;
+}
